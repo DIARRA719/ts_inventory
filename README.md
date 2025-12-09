@@ -1,5 +1,7 @@
 📦**AI Inventory Forecasting App**
 
+    **App Inventory Predictor:** https://tsinventory-kb.streamlit.app/
+
 **By Karen Delea**
 
 A modern AI-powered Streamlit web application that forecasts inventory levels using Prophet, providing interactive visualizations, insights, and downloadable forecasts.
